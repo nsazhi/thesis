@@ -82,7 +82,16 @@
 [Приложение 9. Файловая структура проекта Flask](#p9)
 
 [Приложение 10. Список использованных библиотек проекта Flask](#p10)
+
 <hr>
+
+## Реализованные приложения:
+### [Django](https://github.com/nsazhi/thesis_django_app)
+### [Flask](https://github.com/nsazhi/thesis_flask_app)
+### [FastAPI](https://github.com/nsazhi/thesis_fastapi_app)
+
+<hr>
+
 <h2 id="vved">1. Введение</h2>
 
 <h3 id="tem">Обоснование выбора темы</h3>
