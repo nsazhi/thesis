@@ -45,7 +45,7 @@
 
 [Django](#dja)
 
-[FastAPI](fas)
+[FastAPI](#fas)
 
 [Flask](#fla)
 
