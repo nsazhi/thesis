@@ -481,9 +481,7 @@ FastAPI, благодаря асинхронности и легкой наст�
 2. Улучшить интерфейс.
 3. Добавить функционал для пользователей: авторизацию, возможность создавать свои подборки фильмов, вести свои виш-листы, в перспективе, возможно, подписываться на других пользователей.
 <hr>
-<h2 id="p1">Приложение 1</h2>
-
-### Пользовательский интерфейс
+<h3 id="p1">Приложение 1. Пользовательский интерфейс</h3> 
 
 **Главная страница**
 
@@ -501,9 +499,7 @@ FastAPI, благодаря асинхронности и легкой наст�
 
 <img src='https://github.com/nsazhi/thesis/blob/main/catalog3.jpg'>
 
-<h2 id="p2">Приложение 2</h2>
-
-### Панель администратора Django
+<h3 id="p2">Приложение 2. Панель администратора Django</h3> 
 
 <img src='https://github.com/nsazhi/thesis/blob/main/adm_pan_dj.jpg'>
 
@@ -511,14 +507,154 @@ FastAPI, благодаря асинхронности и легкой наст�
 
 <img src='https://github.com/nsazhi/thesis/blob/main/adm_fil_dj.jpg'>
 
-<h2 id="p3">Приложение 3</h2>
-
-### Файловая структура проекта Django
+<h3 id="p3">Приложение 3. Файловая структура проекта Django</h3>
 
 <img src='https://github.com/nsazhi/thesis/blob/main/dj.jpg'>
 
-<h2 id="p4">Приложение 4</h2>
+<h3 id="p4">Приложение 4. Список использованных библиотек проекта Django</h3>
 
-### [Список использованных библиотек проекта Django](https://github.com/nsazhi/thesis_django_app/blob/master/requirements.txt)
+﻿asgiref==3.8.1
+ 
+Django==4.2.17
 
+djangorestframework==3.15.2
 
+psycopg2==2.9.10
+
+sqlparse==0.5.3
+
+typing_extensions==4.12.2
+
+tzdata==2024.2
+
+<h3 id="p5">Приложение 5. Панель администратора FastAPI</h3>
+
+<img src='https://github.com/nsazhi/thesis/blob/main/adm_log_fa.jpg'>
+
+<img src='https://github.com/nsazhi/thesis/blob/main/adm_cat_fa.jpg'>
+
+<img src='https://github.com/nsazhi/thesis/blob/main/adm_fil_fa.jpg'>
+
+<h3 id="p6">Приложение 6. Файловая структура проекта FastAPI</h3>
+
+<img src='https://github.com/nsazhi/thesis/blob/main/fa.jpg'>
+
+<h3 id="p7">Приложение 7. Список использованных библиотек проекта FastAPI</h3>
+
+﻿aiofiles==24.1.0
+ 
+alembic==1.14.0
+
+annotated-types==0.7.0
+
+anyio==4.7.0
+
+bcrypt==4.2.1
+
+click==8.1.8
+
+colorama==0.4.6
+
+exceptiongroup==1.2.2
+
+fastapi==0.115.6
+
+greenlet==3.1.1
+
+h11==0.14.0
+
+idna==3.10
+
+Jinja2==3.1.5
+
+Mako==1.3.8
+
+MarkupSafe==3.0.2
+
+passlib==1.7.4
+
+psycopg2==2.9.10
+
+pydantic==2.10.4
+
+pydantic_core==2.27.2
+
+python-multipart==0.0.20
+
+python-slugify==8.0.4
+
+sniffio==1.3.1
+
+SQLAlchemy==2.0.36
+
+starlette==0.41.3
+
+text-unidecode==1.3
+
+typing_extensions==4.12.2
+
+uvicorn==0.34.0
+
+<h3 id="p8">Приложение 8. Панель администратора Flask</h3>
+
+<img src='https://github.com/nsazhi/thesis/blob/main/adm_log_fl.jpg'>
+
+<img src='https://github.com/nsazhi/thesis/blob/main/adm_cat_fl.jpg'>
+
+<img src='https://github.com/nsazhi/thesis/blob/main/adm_fil_fl.jpg'>
+
+<h3 id="p9">Приложение 9. Файловая структура проекта Flask</h3>
+
+<img src='https://github.com/nsazhi/thesis/blob/main/fl.jpg'>
+
+<h3 id="p10">Приложение 10. Список использованных библиотек проекта Flask</h3>
+
+﻿alembic==1.14.0
+ 
+annotated-types==0.7.0
+
+blinker==1.9.0
+
+click==8.1.8
+
+colorama==0.4.6
+
+Flask==3.1.0
+
+Flask-Login==0.6.3
+
+Flask-Migrate==4.0.7
+
+Flask-SQLAlchemy==3.1.1
+
+Flask-WTF==1.2.2
+
+greenlet==3.1.1
+
+importlib_metadata==8.5.0
+
+itsdangerous==2.2.0
+
+Jinja2==3.1.5
+
+Mako==1.3.8
+
+MarkupSafe==3.0.2
+
+psycopg2==2.9.10
+
+python-dotenv==1.0.1
+
+python-slugify==8.0.4
+
+SQLAlchemy==2.0.36
+
+text-unidecode==1.3
+
+typing_extensions==4.12.2
+
+Werkzeug==3.1.3
+
+WTForms==3.2.1
+
+zipp==3.21.0
