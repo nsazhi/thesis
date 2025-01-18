@@ -498,7 +498,7 @@ FastAPI, благодаря асинхронности и легкой наст�
 
 **Страница каталога**
 
-<img src='https://github.com/nsazhi/thesis/blob/main/catalog.jpg'>
+<img src='https://github.com/nsazhi/thesis/blob/main/catalog1.jpg'>
 
 **Страница каталога с фильтром по динамическому URL**
 
