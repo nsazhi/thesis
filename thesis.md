@@ -86,9 +86,9 @@
 <hr>
 
 ## Реализованные приложения:
-### [Django](https://github.com/nsazhi/thesis_django_app)
-### [Flask](https://github.com/nsazhi/thesis_flask_app)
-### [FastAPI](https://github.com/nsazhi/thesis_fastapi_app)
+### [Django](https://github.com/nsazhi/Blog-My-Favorite-Films-Django)
+### [Flask](https://github.com/nsazhi/Blog-My-Favorite-Films-FastAPI)
+### [FastAPI](https://github.com/nsazhi/Blog-My-Favorite-Films-Flask)
 
 <hr>
 
